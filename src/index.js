@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Ternary from './Ternary'
+import Form from './Form'
+import Data from './Data'
 
 ReactDOM.render(
   <React.StrictMode>
